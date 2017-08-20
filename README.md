@@ -1,6 +1,3 @@
-This is my personal fork of kelyvin's [original caffeine theme](https://github.com/kelyvin/caffeine-theme/) with some changes for my personal blog. Original README below...
-
-
 # Caffeine Theme [![Build Status](https://travis-ci.org/kelyvin/caffeine-theme.svg?branch=master)](https://travis-ci.org/kelyvin/caffeine-theme) [![GitHub version](https://badge.fury.io/gh/kelyvin%2Fcaffeine-theme.svg)](https://github.com/kelyvin/caffeine-theme/releases)
 
 ![Caffeine Coding](http://i.imgur.com/NiugCmL.png)
@@ -13,6 +10,9 @@ This is my personal fork of kelyvin's [original caffeine theme](https://github.c
 
 You can check out the theme in action on my official blog [Caffeine Coding](https://www.caffeinecoding.com)
 
+
+## Ghost Version Spport
+This theme has been upgraded to v3.0 to support the latest version of `Ghost v1.*`. If you are still on `Ghost v0.11.*`, you can download [Caffeine Theme v2.9.0](https://github.com/kelyvin/caffeine-theme/releases/tag/v2.9.0) release.
 
 ### Table of Contents
 

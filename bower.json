@@ -1,17 +1,18 @@
 {
-  "name": "caffeine-theme",
-  "description": "Material design theme for Ghost",
+  "name": "onesandzeroes-theme",
+  "description": "Material design theme for Ghost, a fork of Kelyvin's caffeine-theme",
   "homepage": "https://github.com/kelyvin/caffeine-theme",
-  "version": "2.7.7",
+  "version": "1.0",
   "authors": [
+    "Geert-Jan Van den Bogaerde <geertjan@vandenbogaerde.eu>",
     "Kelyvin <kelyvin@caffeinecoding.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kelyvin/caffeine-theme"
+    "url": "https://github.com/geertjanvdb/onesandzeroes-theme"
   },
   "bugs": {
-    "url": "https://github.com/kelyvin/caffeine-theme/issues"
+    "url": "https://github.com/geertjanvdb/onesandzeroes-theme/issues"
   },
   "keywords": [
     "ghost",

@@ -2,8 +2,15 @@
 {{> material-cover}}
 <div class="page-template page-index container-wrapper">
     <ol class="posts">
+        {{#get "posts" featured="true" as |featured|}}
+	        {{#foreach featured}}
+                {{> post-list-item }}
+            {{/foreach}}
+        {{/get}}
         {{#foreach posts}}
-         {{> post-list-item }}
+            ((#unless featured}}
+                {{> post-list-item }}
+            {{/unless}}
         {{/foreach}}
     </ol>
 </div>
